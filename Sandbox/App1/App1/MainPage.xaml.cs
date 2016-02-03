@@ -25,6 +25,7 @@ namespace App1
         public MainPage()
         {
             this.InitializeComponent();
+            ///new test
             //var test test xxxxx
         }
     }
